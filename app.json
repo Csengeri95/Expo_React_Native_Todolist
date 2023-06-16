@@ -1,0 +1,63 @@
+{
+  "expo": {
+    "name": "Todolist",
+    "plugins": [
+      "expo-notifications",
+      [
+        "expo-apple-authentication"
+      ],
+      [
+        "@react-native-google-signin/google-signin"
+      ],
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "The app accesses your photos to let you share them with your friends."
+        }
+      ]
+    ],
+    "notification": {
+      "icon": "./assets/icon.png",
+      "color": "#311b92",
+      "androidMode": "default",
+      "androidCollapsedTitle": "Updates from Colab.notes",
+      "iosDisplayInForeground": true
+    },
+    "slug": "Todolist",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "icon": "./assets/icon.png",
+      "bundleIdentifier": "com.todolist"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "permissions": [
+        "android.permission.RECORD_AUDIO"
+      ],
+      "package": "com.todolist"
+    },
+    "web": {
+      "favicon": "./assets/icon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "4af45d59-9ee2-4a1a-8f4f-4e19dd70a939"
+      }
+    }
+  }
+}
