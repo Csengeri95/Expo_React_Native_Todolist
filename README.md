@@ -21,10 +21,10 @@ Main npm packages used:
 - react-native-uuid 
 - react-navigation
 
+<img src="https://dl.dropboxusercontent.com/s/o9nditbjn6s4opa/login.PNG?dl=0" width=50% height=50%>
+<img src="https://dl.dropboxusercontent.com/s/1trw1grm4r9uu09/registration.PNG?dl=0" width=50% height=50%>
+<img src="https://dl.dropboxusercontent.com/s/oqrhaxobx0njfr7/Todo.PNG?dl=0" width=50% height=50%>
+<img src="https://dl.dropboxusercontent.com/s/9ra4xm56hegsfgf/Todo2.PNG?dl=0" width=50% height=50%>
+<img src="https://dl.dropboxusercontent.com/s/5mi4pmz24joxwz3/Todo3.PNG?dl=0" width=50% height=50%>
+<img src="https://dl.dropboxusercontent.com/s/yanvcluun9mzrbm/drawer.PNG?dl=0" width=50% height=50%>
 
-![Project Registration](https://dl.dropboxusercontent.com/s/1trw1grm4r9uu09/registration.PNG?dl=0)
-![Project Login](https://dl.dropboxusercontent.com/s/o9nditbjn6s4opa/login.PNG?dl=0)
-![Project Home](https://dl.dropboxusercontent.com/s/oqrhaxobx0njfr7/Todo.PNG?dl=0)
-![Project Home2](https://dl.dropboxusercontent.com/s/9ra4xm56hegsfgf/Todo2.PNG?dl=0)
-![Project Home3](https://dl.dropboxusercontent.com/s/5mi4pmz24joxwz3/Todo3.PNG?dl=0)
-![Project Drawer](https://dl.dropboxusercontent.com/s/yanvcluun9mzrbm/drawer.PNG?dl=0)
